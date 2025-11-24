@@ -40,7 +40,7 @@ const Hero = () => {
 
             <a
               className="btnn"
-              href="https://drive.google.com/file/d/1VLMo8Z9UKrSTi8F_okzLj7m3VcHpPhN0/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-CELAQ6GDubPCMWTbEulr1kdPAu1owrQ/view?usp=drivesdk "
               target="_blank"
               rel="noopener noreferrer"
             >
