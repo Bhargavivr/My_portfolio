@@ -108,7 +108,7 @@ const projects = [
   title: "FirstFlo – Smart Menstrual Wellness Platform",
   description:
     "FirstFlo is a React-based menstrual wellness platform with modular components and RESTful APIs for period tracking, user data handling, and personalized health insights. It delivers age-specific features and supports future integrations like AI chatbots and secure cloud storage.",
-  image: "/firstflo.png",
+  image: "firstflo.jpg",
   tech: [
     {
       name: "React",
