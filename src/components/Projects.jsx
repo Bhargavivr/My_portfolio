@@ -143,6 +143,7 @@ const projects = [
   ],
 
   code: "https://github.com/Bhargavivr/Firstflo.git",
+    tag: "Group Project",
 }
 
   {
