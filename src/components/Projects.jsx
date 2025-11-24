@@ -145,7 +145,7 @@ const projects = [
   code: "https://github.com/Bhargavivr/Firstflo.git",
     tag: "Group Project",
 }
-
+,
   {
     title: "Kubernetes Failure Predictor ",
     description:
