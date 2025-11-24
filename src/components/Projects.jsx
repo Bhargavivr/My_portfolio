@@ -104,6 +104,46 @@ const projects = [
 
     code: "https://github.com/Bhargavivr/rockybot",
   },
+{
+  title: "FirstFlo – Smart Menstrual Wellness Platform",
+  description:
+    "FirstFlo is built using a modular, component-based architecture with a React frontend and RESTful APIs for managing user data, period tracking, and personalized health insights. It uses structured data models and scalable state management to deliver features tailored to Early Teens, Teens, and Adults. The backend supports cycle logging, health analytics, and is designed for future expansion with AI chatbots, secure authentication, and cloud-based storage.",
+  image: "/firstflo.png",
+  tech: [
+    {
+      name: "React",
+      color: "bg-blue-600/20 text-blue-300",
+      icon: "https://skillicons.dev/icons?i=react",
+    },
+    {
+      name: "Node.js",
+      color: "bg-green-600/20 text-green-400",
+      icon: "https://skillicons.dev/icons?i=nodejs",
+    },
+    {
+      name: "REST API",
+      color: "bg-yellow-600/20 text-yellow-300",
+      icon: "https://cdn-icons-png.flaticon.com/512/149/149852.png",
+    },
+    {
+      name: "State Management",
+      color: "bg-pink-600/20 text-pink-300",
+      icon: "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+    },
+    {
+      name: "Analytics Engine",
+      color: "bg-orange-600/20 text-orange-300",
+      icon: "https://cdn-icons-png.flaticon.com/512/1584/1584940.png",
+    },
+    {
+      name: "Future AI Integration",
+      color: "bg-purple-500/20 text-purple-400",
+      icon: "https://skillicons.dev/icons?i=ai",
+    },
+  ],
+
+  code: "https://github.com/Bhargavivr/Firstflo.git",
+}
 
   {
     title: "Kubernetes Failure Predictor ",
