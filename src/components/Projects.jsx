@@ -107,7 +107,7 @@ const projects = [
 {
   title: "FirstFlo – Smart Menstrual Wellness Platform",
   description:
-    "FirstFlo is built using a modular, component-based architecture with a React frontend and RESTful APIs for managing user data, period tracking, and personalized health insights. It uses structured data models and scalable state management to deliver features tailored to Early Teens, Teens, and Adults. The backend supports cycle logging, health analytics, and is designed for future expansion with AI chatbots, secure authentication, and cloud-based storage.",
+    "FirstFlo is a React-based menstrual wellness platform with modular components and RESTful APIs for period tracking, user data handling, and personalized health insights. It delivers age-specific features and supports future integrations like AI chatbots and secure cloud storage.",
   image: "/firstflo.png",
   tech: [
     {
